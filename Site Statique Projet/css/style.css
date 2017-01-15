@@ -1876,3 +1876,9 @@ textarea {
   text-align: right;
 }
 /*# sourceMappingURL=style.css.map */
+
+.table-hover {
+    background: #fff;
+    padding: 30px;
+}
+
